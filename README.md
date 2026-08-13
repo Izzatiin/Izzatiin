@@ -1,52 +1,90 @@
-## Hi there I'm Mohammad Nawfal Arfa 👋
-![One Piece](img/github-header-banner.png) 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohammad%20Nawfal%20Arfa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20code%20like%20a%20galaxy%20%F0%9F%9A%80&descAlignY=55&descSize=18" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/aayushi7/aayushi7/master/astronaut.gif" width="140" alt="astronaut floating"/>
 
-<!--
-**arfa666195/arfa666195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Nawfal+%F0%9F%91%8B;Beginner+Developer+%7C+Roblox+Studio;Exploring+the+universe+of+code+%F0%9F%8C%8C" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-![One Piece](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhodzJtY3Rnc3V3ejMyb2VtaHlvNHRzbDY4NHViMmgxMDdvbHJodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFWFSmOyHclS8/giphy.gif)
+<br>
 
-##### Skill
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,kali,linux,robloxstudio)](https://skillicons.dev)
+## 🪐 Tentang Saya
 
-##### 🔒 Security Tools 
-<img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+Saya seorang **Beginner Developer** yang suka membangun hal-hal kecil dan bereksperimen dengan kode — dari game di Roblox Studio sampai eksplorasi dunia keamanan siber. Percaya bahwa belajar itu seperti menjelajah luar angkasa: pelan-pelan, tapi terus maju ke arah yang belum pernah dijelajahi.
 
-##### 📱 Contact 
-![https://instagram.com/izzatiin_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://github.com/Izzatiin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![https://www.linkedin.com/in/nawfal-arfa-496b3930b/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://x.com/Dev_Izzatiin?t=euWa0p2zc-L6mWxXITB8xg&s=09](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+- 🌍 Based in **Kota Gorontalo, Indonesia**
+- 🛰️ Fokus saat ini: **Roblox Studio Development**
+- 🔭 Sedang belajar lebih dalam soal **Security Tools**
+- 💫 Portofolio: [izzatiin.github.io/Portofolio-NawfalArfa](https://izzatiin.github.io/Portofolio-NawfalArfa/)
 
-##### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Izzatiin&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Izzatiin&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzatiin&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-##### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Izzatiin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🛠️ Tech Stack
 
-##### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Izzatiin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=Izzatiin&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://skillicons.dev/icons?i=js,html,css,blender,linux&theme=dark" />
 
- ##### 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/NawfalArfa) 
+</div>
+
+<br>
+
+## 🔐 Security Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+</div>
+
+<br>
+
+## 📡 Kontak
+
+<div align="center">
+
+<a href="https://instagram.com/izzatiin_" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://github.com/Izzatiin" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/nawfal-arfa-496b3930b" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:nawfalarfa4@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+## 🌌 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Izzatiin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Izzatiin&theme=midnight-purple&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA" width="48%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Izzatiin&theme=darkhub&no-frame=true&column=7&margin-w=8" width="90%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+*"Not all who wander through the code are lost."* 🛸
+
+</div>
