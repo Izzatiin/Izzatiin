@@ -16,8 +16,7 @@
 
 Saya seorang **Beginner Developer** yang suka membangun hal-hal kecil dan bereksperimen dengan kode — dari game di Roblox Studio sampai eksplorasi dunia keamanan siber. Percaya bahwa belajar itu seperti menjelajah luar angkasa: pelan-pelan, tapi terus maju ke arah yang belum pernah dijelajahi.
 
-- 🌍 Based in **Kota Gorontalo, Indonesia**
-- 🛰️ Fokus saat ini: **Roblox Studio Development**
+- 🛰️ Fokus saat ini: **Cyber Security**
 - 🔭 Sedang belajar lebih dalam soal **Security Tools**
 - 💫 Portofolio: [izzatiin.github.io/Portofolio-NawfalArfa](https://izzatiin.github.io/Portofolio-NawfalArfa/)
 
