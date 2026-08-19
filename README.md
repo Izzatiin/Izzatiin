@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Nawfal+%F0%9F%91%8B;Beginner+Developer+%7C+Roblox+Studio;Exploring+the+universe+of+code+%F0%9F%8C%8C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Nawfal+%F0%9F%91%8B;Cybersecurity+Enthusiast+%7C+Python+Dev;Exploring+the+universe+of+code+%F0%9F%8C%8C" alt="Typing SVG" />
 
 </div>
 
@@ -14,19 +14,19 @@
 
 ## 🪐 Tentang Saya
 
-Saya seorang **Beginner Developer** yang suka membangun hal-hal kecil dan bereksperimen dengan kode — dari game di Roblox Studio sampai eksplorasi dunia keamanan siber. Percaya bahwa belajar itu seperti menjelajah luar angkasa: pelan-pelan, tapi terus maju ke arah yang belum pernah dijelajahi.
+Saya seorang **Cybersecurity Enthusiast & Python Developer** yang suka membangun skrip otomatisasi dan bereksperimen dengan keamanan siber. Percaya bahwa belajar itu seperti menjelajah luar angkasa: pelan-pelan, tapi terus maju ke arah yang belum pernah dijelajahi.
 
-- 🛰️ Fokus saat ini: **Cyber Security**
-- 🔭 Sedang belajar lebih dalam soal **Security Tools**
+- 🛰️ Fokus saat ini: **Cyber Security & Python Scripting**
+- 🔭 Sedang mempelajari: **Network Security & Penetration Testing**
 - 💫 Portofolio: [izzatiin.github.io/Portofolio-NawfalArfa](https://izzatiin.github.io/Portofolio-NawfalArfa/)
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,blender,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,bash,linux,js,html,css,blender&theme=dark" />
 
 </div>
 
@@ -39,6 +39,7 @@ Saya seorang **Beginner Developer** yang suka membangun hal-hal kecil dan bereks
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
 
 </div>
 
@@ -70,11 +71,7 @@ Saya seorang **Beginner Developer** yang suka membangun hal-hal kecil dan bereks
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Izzatiin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Izzatiin&theme=midnight-purple&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA" width="48%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Izzatiin&theme=darkhub&no-frame=true&column=7&margin-w=8" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izzatiin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA" width="48%"/>
 
 </div>
 
