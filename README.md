@@ -14,7 +14,7 @@
 
 ## 🪐 Tentang Saya
 
-Saya seorang **Cybersecurity Enthusiast & Python Developer** yang suka membangun skrip otomatisasi dan bereksperimen dengan keamanan siber. Percaya bahwa belajar itu seperti menjelajah luar angkasa: pelan-pelan, tapi terus maju ke arah yang belum pernah dijelajahi.
+Saya seorang **Cybersecurity Enthusiast & Python Developer** yang suka membangun skrip otomatisasi dan bereksperimen dengan keamanan siber. Percaya bahwa belajar itu seperti menjelajah luar angkasa: pelan-pelan, tapi terus maju ke arah yang belum pernah dijajahi.
 
 - 🛰️ Fokus saat ini: **Cyber Security & Python Scripting**
 - 🔭 Sedang mempelajari: **Network Security & Penetration Testing**
