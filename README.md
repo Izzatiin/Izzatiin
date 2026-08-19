@@ -68,12 +68,10 @@ Saya seorang **Cybersecurity Enthusiast & Python Developer** yang suka membangun
 
 ## 🌌 GitHub Stats
 
-## 🌌 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Izzatiin&theme=dark&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/chat?username=Izzatiin&theme=midnight_purple" width="48%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Izzatiin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" width="48%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Izzatiin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA" width="48%"/>
 
 </div>
 
