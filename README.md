@@ -68,6 +68,8 @@ status:      🟢 online, menjelajah galaksi kode
 
 <div align="center">
 
+<img src="img/star-map.svg" width="100%" alt="Star map"/>
+
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Izzatiin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" width="48%"/>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Izzatiin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA" width="48%"/>
 

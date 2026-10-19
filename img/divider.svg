@@ -1,40 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="34" viewBox="0 0 900 34">
-<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
-<linearGradient id="t" x1="1" x2="0"><stop offset="0" stop-color="#f0abfc"/><stop offset="1" stop-color="#f0abfc" stop-opacity="0"/></linearGradient></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="30" viewBox="0 0 900 30">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#9fb4ff" stop-opacity="0"/><stop offset=".5" stop-color="#c7b8ff" stop-opacity=".7"/><stop offset="1" stop-color="#9fb4ff" stop-opacity="0"/></linearGradient>
+<linearGradient id="t" x1="1" x2="0"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
 <style>
-.tw1{animation:tw 3s ease-in-out infinite}.tw2{animation:tw 4.5s ease-in-out infinite}
-.tw3{animation:tw 2.2s ease-in-out infinite}.tw4{opacity:.55}
-@keyframes tw{0%,100%{opacity:1}50%{opacity:.15}}
-.spark{animation:sp 3.2s ease-in-out infinite}
-@keyframes sp{0%,100%{opacity:.2;transform:scale(.5)}50%{opacity:1;transform:scale(1)}}
-.c{animation:c 6s linear infinite}@keyframes c{from{transform:translateX(-140px)}to{transform:translateX(940px)}}</style>
-<circle class="tw4" cx="214.2" cy="18.5" r="1" fill="#a5f3fc" style="animation-delay:0.26s"/>
-<circle class="tw2" cx="11.9" cy="28.5" r="1" fill="#ffffff" style="animation-delay:3.98s"/>
-<circle class="tw4" cx="423.2" cy="28.4" r="1" fill="#ffffff" style="animation-delay:0.93s"/>
-<circle class="tw1" cx="136.5" cy="31.5" r="1" fill="#ffffff" style="animation-delay:0.64s"/>
-<circle class="tw1" cx="861.7" cy="1.5" r="2.1" fill="#dcd6ff" style="animation-delay:1.89s"/>
-<circle class="tw4" cx="646.9" cy="29.9" r="1.6" fill="#c4b5fd" style="animation-delay:2.91s"/>
-<circle class="tw3" cx="519.2" cy="32.8" r="0.8" fill="#ffffff" style="animation-delay:0.14s"/>
-<circle class="tw4" cx="445.4" cy="8.8" r="1.6" fill="#dcd6ff" style="animation-delay:1.68s"/>
-<circle class="tw4" cx="750.1" cy="19.5" r="1.2" fill="#a5f3fc" style="animation-delay:0.93s"/>
-<circle class="tw3" cx="303.1" cy="31.1" r="0.6" fill="#a5f3fc" style="animation-delay:2.69s"/>
-<circle class="tw1" cx="146.8" cy="29.3" r="1.2" fill="#ffffff" style="animation-delay:2.53s"/>
-<circle class="tw1" cx="889.3" cy="9.1" r="0.6" fill="#c4b5fd" style="animation-delay:3.42s"/>
-<circle class="tw1" cx="890.8" cy="3.0" r="2.1" fill="#c4b5fd" style="animation-delay:3.59s"/>
-<circle class="tw1" cx="18.1" cy="14.5" r="1" fill="#ffffff" style="animation-delay:2.42s"/>
-<circle class="tw3" cx="685.5" cy="12.8" r="1.2" fill="#a5f3fc" style="animation-delay:3.52s"/>
-<circle class="tw3" cx="882.6" cy="17.2" r="0.6" fill="#ffffff" style="animation-delay:0.31s"/>
-<circle class="tw4" cx="539.8" cy="1.1" r="0.8" fill="#dcd6ff" style="animation-delay:2.44s"/>
-<circle class="tw3" cx="140.6" cy="1.4" r="2.1" fill="#dcd6ff" style="animation-delay:1.44s"/>
-<circle class="tw4" cx="124.5" cy="29.3" r="1" fill="#a5f3fc" style="animation-delay:1.54s"/>
-<circle class="tw3" cx="780.1" cy="23.2" r="0.6" fill="#c4b5fd" style="animation-delay:2.54s"/>
-<circle class="tw3" cx="644.1" cy="31.8" r="1" fill="#a5f3fc" style="animation-delay:1.21s"/>
-<circle class="tw3" cx="305.0" cy="26.8" r="1.2" fill="#ffffff" style="animation-delay:1.51s"/>
-<circle class="tw3" cx="530.3" cy="4.5" r="1.6" fill="#c4b5fd" style="animation-delay:1.41s"/>
-<circle class="tw4" cx="825.6" cy="20.7" r="1" fill="#ffffff" style="animation-delay:2.36s"/>
-<circle class="tw3" cx="859.4" cy="0.7" r="1" fill="#c4b5fd" style="animation-delay:1.19s"/>
-<circle class="tw3" cx="541.3" cy="6.0" r="0.8" fill="#dcd6ff" style="animation-delay:3.38s"/>
-<line x1="0" y1="17" x2="900" y2="17" stroke="url(#l)" stroke-width="1.2"/>
-<g class="c"><line x1="0" y1="17" x2="100" y2="17" stroke="url(#t)" stroke-width="2.4" stroke-linecap="round" transform="translate(-100 0)"/><circle cx="0" cy="17" r="3.4" fill="#fff"/></g>
-<circle cx="450.0" cy="17" r="5" fill="#0d1117" stroke="#a78bfa" stroke-width="1.5"/><circle cx="450.0" cy="17" r="1.8" fill="#f0abfc"/>
+.tw1{animation:tw 4s ease-in-out infinite}.tw2{animation:tw 5.5s ease-in-out infinite}.tw3{animation:tw 3s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:1}50%{opacity:.25}}
+.c{animation:c 7s linear infinite}@keyframes c{from{transform:translateX(-140px)}to{transform:translateX(940px)}}</style>
+<circle cx="214.2" cy="16.3" r="0.38" fill="#d8ccff" opacity="0.59"/>
+<circle cx="563.1" cy="2.0" r="0.35" fill="#d8ccff" opacity="0.36"/>
+<circle cx="233.4" cy="7.0" r="1.73" fill="#d8ccff" opacity="1.00" class="tw3" style="animation-delay:4.18s"/>
+<circle cx="428.7" cy="19.2" r="0.35" fill="#ffffff" opacity="0.45"/>
+<circle cx="781.2" cy="15.7" r="0.77" fill="#ffffff" opacity="0.83" class="tw1" style="animation-delay:3.79s"/>
+<circle cx="532.0" cy="9.0" r="0.35" fill="#ffffff" opacity="0.37"/>
+<circle cx="425.5" cy="21.6" r="1.19" fill="#ffe9d6" opacity="0.92" class="tw2" style="animation-delay:3.64s"/>
+<circle cx="519.2" cy="28.9" r="0.35" fill="#cfe0ff" opacity="0.44"/>
+<circle cx="87.7" cy="4.1" r="0.35" fill="#ffe9d6" opacity="0.49"/>
+<circle cx="701.1" cy="25.7" r="0.39" fill="#ffe9d6" opacity="0.62"/>
+<circle cx="516.6" cy="16.0" r="0.39" fill="#ffffff" opacity="0.61"/>
+<circle cx="813.8" cy="20.5" r="1.39" fill="#ffffff" opacity="0.95" class="tw3" style="animation-delay:3.36s"/>
+<circle cx="146.8" cy="25.8" r="1.56" fill="#ffffff" opacity="0.98" class="tw3" style="animation-delay:3.28s"/>
+<circle cx="569.7" cy="29.6" r="0.36" fill="#ffffff" opacity="0.52"/>
+<circle cx="57.1" cy="25.6" r="1.69" fill="#ffffff" opacity="0.99" class="tw2" style="animation-delay:4.00s"/>
+<circle cx="369.4" cy="4.5" r="0.36" fill="#ffe9d6" opacity="0.54"/>
+<circle cx="785.5" cy="1.3" r="0.55" fill="#ffffff" opacity="0.75"/>
+<circle cx="340.0" cy="17.6" r="0.48" fill="#ffffff" opacity="0.71"/>
+<circle cx="454.9" cy="30.0" r="0.36" fill="#ffffff" opacity="0.55"/>
+<circle cx="97.3" cy="16.1" r="1.49" fill="#ffe9d6" opacity="0.97" class="tw2" style="animation-delay:3.05s"/>
+<circle cx="140.6" cy="1.3" r="1.14" fill="#cfe0ff" opacity="0.91" class="tw2" style="animation-delay:4.79s"/>
+<circle cx="807.0" cy="11.3" r="0.41" fill="#ffe9d6" opacity="0.65"/>
+<circle cx="579.5" cy="17.9" r="0.49" fill="#ffffff" opacity="0.71"/>
+<circle cx="388.1" cy="21.6" r="0.35" fill="#ffffff" opacity="0.50"/>
+<circle cx="393.7" cy="7.7" r="0.36" fill="#cfe0ff" opacity="0.55"/>
+<circle cx="10.3" cy="12.5" r="0.51" fill="#ffffff" opacity="0.73"/>
+<circle cx="338.9" cy="17.7" r="0.35" fill="#cfe0ff" opacity="0.44"/>
+<circle cx="419.6" cy="20.4" r="0.37" fill="#ffffff" opacity="0.58"/>
+<circle cx="664.2" cy="0.7" r="0.35" fill="#ffffff" opacity="0.39"/>
+<circle cx="867.0" cy="7.5" r="0.41" fill="#cfe0ff" opacity="0.65"/>
+<circle cx="159.7" cy="5.6" r="0.81" fill="#ffffff" opacity="0.84" class="tw2" style="animation-delay:3.94s"/>
+<circle cx="94.4" cy="24.4" r="1.60" fill="#ffffff" opacity="0.98" class="tw2" style="animation-delay:2.50s"/>
+<circle cx="588.4" cy="8.1" r="0.37" fill="#ffe9d6" opacity="0.56"/>
+<circle cx="584.6" cy="2.9" r="0.53" fill="#cfe0ff" opacity="0.74"/>
+<circle cx="607.4" cy="6.7" r="0.95" fill="#ffffff" opacity="0.88" class="tw1" style="animation-delay:1.68s"/>
+<circle cx="585.2" cy="26.5" r="0.41" fill="#ffffff" opacity="0.64"/>
+<circle cx="708.3" cy="1.0" r="1.53" fill="#cfe0ff" opacity="0.97" class="tw3" style="animation-delay:0.92s"/>
+<circle cx="250.7" cy="24.2" r="0.59" fill="#cfe0ff" opacity="0.77"/>
+<circle cx="530.5" cy="12.6" r="0.45" fill="#ffffff" opacity="0.69"/>
+<circle cx="418.2" cy="19.0" r="0.36" fill="#ffe9d6" opacity="0.54"/>
+<line x1="0" y1="15" x2="900" y2="15" stroke="url(#l)" stroke-width="1"/>
+<g class="c"><line x1="-90" y1="15" x2="0" y2="15" stroke="url(#t)" stroke-width="1.8" stroke-linecap="round"/><circle cx="0" cy="15" r="2" fill="#fff"/></g>
 </svg>
